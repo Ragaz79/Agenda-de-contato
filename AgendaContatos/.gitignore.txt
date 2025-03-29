@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# LibMan Dependencies
+wwwroot/lib/
+
+# npm Packages
+node_modules/
+
+# Logs
+*.log
+
+# IDE Configurations
+.idea/
+.vscode/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Outros arquivos temporários
+*.tmp
