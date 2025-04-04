@@ -28,3 +28,5 @@ Thumbs.db
 
 # Outros arquivos temporários
 *.tmp
+
+Helpers/sqlConnection.cs
