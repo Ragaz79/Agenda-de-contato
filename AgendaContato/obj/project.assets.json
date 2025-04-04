@@ -4686,11 +4686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1Joao\\Nova pasta\\AgendaContato\\AgendaContato\\AgendaContato\\AgendaContato.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\AgendaContato.csproj",
       "projectName": "AgendaContato",
-      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1Joao\\Nova pasta\\AgendaContato\\AgendaContato\\AgendaContato\\AgendaContato.csproj",
+      "projectPath": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\AgendaContato.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1Joao\\Nova pasta\\AgendaContato\\AgendaContato\\AgendaContato\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

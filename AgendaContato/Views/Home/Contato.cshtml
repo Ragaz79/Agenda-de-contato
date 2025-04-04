@@ -2,3 +2,47 @@
     ViewData["Title"] = "Contatos";
 }
 @model List<CONTATO>
+<div class="text-center">
+    <h1 class="display-4">Contatos</h1>
+    <br />
+    <table class="table">
+        <thread>
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Value
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thread>
+        <tbody>
+            @{
+                foreach (var contato in Model)
+                {
+                    <tr>
+                        <td>
+                            @contato.CONTATO_COD
+                        </td>
+                        <td>
+                            @contato.CONTATO_NUMERO
+                        </td>
+                        <td>
+                            @contato.CONTATO_NOME
+                        </td>
+                        <td>
+                            <a asp-action="CreateEditExpense" asp-route-id="@contato.CONTATO_COD">Edit</a>
+                            <a asp-action="DeleteExpense" asp-route-id="@contato.CONTATO_COD">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

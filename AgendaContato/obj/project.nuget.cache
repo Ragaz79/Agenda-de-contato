@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1jhbiYswW2I=",
+  "dgSpecHash": "e5LJLw7xALk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1Joao\\Nova pasta\\AgendaContato\\AgendaContato\\AgendaContato\\AgendaContato.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\AgendaContato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
