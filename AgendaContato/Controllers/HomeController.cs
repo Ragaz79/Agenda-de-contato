@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using AgendaContato.Models;
 using AgendaContato.Data;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace AgendaContato.Controllers;
 
@@ -34,14 +35,17 @@ public class HomeController : Controller
     }
     public IActionResult CriarContato(int? id)
     {
+        ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "NOME_TIPO");
+
         if (id != null)
         {
-            //editing -> load an expense by id
-            var contatoInDb = _context.CONTATOS.SingleOrDefault(contato => contato.CONTATO_COD == id); //SingleOrDefault(expense => expense.Id == id) é um link query que vai na tabela é pega o primeira id que combina com o id passado que no caso é o primeiro expenseve demonstrado
+            var contatoInDb = _context.CONTATOS.SingleOrDefault(contato => contato.CONTATO_COD == id);
             return View(contatoInDb);
         }
-        return View();
+
+        return View(new CONTATO());
     }
+
 
     public IActionResult DeletaContato(int id)
     {
@@ -52,6 +56,14 @@ public class HomeController : Controller
     }
     public IActionResult CriarContatoForm(CONTATO model)
     {
+        // Verificar se o TIPO_COD é válido (existe no banco)
+        bool tipoExiste = _context.TIPOCONTATOS.Any(t => t.TIPO_COD == model.TIPO_COD);
+        if (!tipoExiste)
+        {
+            ModelState.AddModelError("TIPO_COD", "Tipo de contato inválido.");
+            return View("CriarContato", model);
+        }
+
         if (model.CONTATO_COD == 0)
         {
             //Create

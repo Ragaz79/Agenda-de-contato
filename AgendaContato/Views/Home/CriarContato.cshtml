@@ -1,20 +1,25 @@
-﻿@{
+﻿@model AgendaContato.Models.CONTATO
+@{
     ViewData["Title"] = "Create / Edit";
 }
-@model AgendaContato.Models.CONTATO
+
 <div class="text-center">
     <h1 class="display-4">Create or edit an expense</h1>
 </div>
 
 <form asp-action="CriarContatoForm" asp-controller="Home">
-    @* <label>Id</label> retirado porque o Entity framework ira tomar conta de tudo relacionado ao Id. hidden é pra dizer q o Id não é mais vísivel *@
-    <input hidden class="form-control" type="number" placeholder="0" asp-for="CONTATO_COD" />
+    <input hidden class="form-control" type="number" asp-for="CONTATO_COD" />
 
     <label class="mt-4">Value $</label>
     <input class="form-control" type="number" placeholder="0" asp-for="CONTATO_NUMERO" step="0.01" />
 
     <label class="mt-4">Description</label>
-    <input class="form-control" type="text" placeholder="Add a description" asp-for="CONTATO_NOME" step="0.01" />
+    <input class="form-control" type="text" placeholder="Add a description" asp-for="CONTATO_NOME" />
+
+    <label class="mt-4">Tipo de Contato</label>
+    <select class="form-control" asp-for="TIPO_COD" asp-items="ViewBag.Tipos">
+        <option value="">Selecione um tipo</option>
+    </select>
 
     <button class="btn btn-primary mt-4" type="submit">Ok</button>
 </form>
