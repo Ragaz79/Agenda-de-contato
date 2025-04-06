@@ -54,15 +54,17 @@ public class HomeController : Controller
         _context.SaveChanges();
         return RedirectToAction("Contatos");
     }
+    [HttpPost]
     public IActionResult CriarContatoForm(CONTATO model)
     {
         // Verificar se o TIPO_COD é válido (existe no banco)
         bool tipoExiste = _context.TIPOCONTATOS.Any(t => t.TIPO_COD == model.TIPO_COD);
-        if (!tipoExiste)
-        {
-            ModelState.AddModelError("TIPO_COD", "Tipo de contato inválido.");
-            return View("CriarContato", model);
-        }
+        //if (!tipoExiste)
+        //{
+        //    ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "NOME_TIPO");
+        //    ModelState.AddModelError("TIPO_COD", "Tipo de contato inválido.");
+        //    return View("CriarContato", model);
+        //}
 
         if (model.CONTATO_COD == 0)
         {

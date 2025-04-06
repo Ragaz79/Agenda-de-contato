@@ -21,10 +21,10 @@ namespace AgendaContato.Models
         public string CONTATO_NUMERO { get; set; }
 
         [Column("TIPO_COD")]
-        public int TIPO_COD { get; set; }
+        public int? TIPO_COD { get; set; }
 
         [Column("CONTATO_FAVORITO")]
-        public bool CONTATO_FAVORITO { get; set; } = false;
+        public bool? CONTATO_FAVORITO { get; set; } = false;
 
         [ForeignKey("TIPO_COD")]
         public TIPOCONTATO TIPOCONTATO { get; set; }

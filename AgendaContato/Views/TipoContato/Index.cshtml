@@ -1,0 +1,31 @@
+﻿@model List<AgendaContato.Models.TIPOCONTATO>
+@{
+    ViewData["Title"] = "Tipos de Contato";
+}
+
+<h2>Tipos de Contato</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Criar">Novo Tipo</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tipo in Model)
+        {
+            <tr>
+                <td>@tipo.TIPO_COD</td>
+                <td>@tipo.TIPO_NOME</td>
+                <td>
+                    <a asp-action="Criar" asp-route-id="@tipo.TIPO_COD">Editar</a> |
+                    <a asp-action="Deletar" asp-route-id="@tipo.TIPO_COD">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -44,8 +44,8 @@ namespace AgendaContato.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     CONTATO_NOME = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
                     CONTATO_NUMERO = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
-                    TIPO_COD = table.Column<int>(type: "int", nullable: false),
-                    CONTATO_FAVORITO = table.Column<bool>(type: "bit", nullable: false)
+                    TIPO_COD = table.Column<int>(type: "int", nullable: true),
+                    CONTATO_FAVORITO = table.Column<bool>(type: "bit", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -54,8 +54,7 @@ namespace AgendaContato.Migrations
                         name: "FK_CONTATOS_TIPOCONTATOS_TIPO_COD",
                         column: x => x.TIPO_COD,
                         principalTable: "TIPOCONTATOS",
-                        principalColumn: "TIPO_COD",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "TIPO_COD");
                 });
 
             migrationBuilder.CreateTable(
