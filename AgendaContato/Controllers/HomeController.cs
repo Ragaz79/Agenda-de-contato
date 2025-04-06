@@ -49,10 +49,10 @@ public class HomeController : Controller
 
     public IActionResult DeletaContato(int id)
     {
-        var contatoInDb = _context.CONTATOS.SingleOrDefault(expense => expense.CONTATO_COD == id);
+        var contatoInDb = _context.CONTATOS.SingleOrDefault(contato => contato.CONTATO_COD == id);
         _context.CONTATOS.Remove(contatoInDb);
         _context.SaveChanges();
-        return RedirectToAction("Contatos");
+        return RedirectToAction("Contato");
     }
     [HttpPost]
     public IActionResult CriarContatoForm(CONTATO model)
