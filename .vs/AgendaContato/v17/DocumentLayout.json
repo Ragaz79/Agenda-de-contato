@@ -7,6 +7,20 @@
       "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\views\\tipocontato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\tipocontato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -59,10 +73,6 @@
       "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\data\\agendacontatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\data\\agendacontatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,13 +95,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\gabri\\onedrive\\documents\\aedb\\desenvolvimento de sistemas web\\av1\\agendacontatos\\agendacontato\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,8 +103,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 230,
-          "SelectedChildIndex": 11,
+          "DockedHeight": 436,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,48 +119,21 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250406045716_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250406045716_Initial.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Migrations\\20250406045716_Initial.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250406045716_Initial.cs",
-              "RelativeToolTip": "AgendaContato\\Migrations\\20250406045716_Initial.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:15:58.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AGENDACONTATOSContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
-              "RelativeToolTip": "AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:15:57.484Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20250405224149_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
-              "RelativeToolTip": "AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:14:05.292Z"
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAFkCAAAAAAAAAAAmwGUCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-06T18:24:40.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TIPOCONTATO.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Models\\TIPOCONTATO.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Models\\TIPOCONTATO.cs",
@@ -169,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "GRUPOCONTATO.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Models\\GRUPOCONTATO.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Models\\GRUPOCONTATO.cs",
@@ -181,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CONTATO.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Models\\CONTATO.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Models\\CONTATO.cs",
@@ -193,7 +169,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarContato.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "RelativeToolTip": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T05:37:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contato.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Contato.cshtml",
+              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Contato.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Contato.cshtml",
+              "RelativeToolTip": "AgendaContato\\Views\\Home\\Contato.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T05:37:07.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AgendaContato\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T22:16:09.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250405224149_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
+              "RelativeToolTip": "AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:14:05.292Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AGENDACONTATOSContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
+              "RelativeToolTip": "AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:15:57.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "TipoContatoController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Controllers\\TipoContatoController.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Controllers\\TipoContatoController.cs",
@@ -205,20 +244,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AgendaContato\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T22:16:09.292Z",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAABQBAAAAAAAAAAAnwAwBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-05T01:04:20.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "20250406045716_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250406045716_Initial.cs",
+              "RelativeDocumentMoniker": "AgendaContato\\Migrations\\20250406045716_Initial.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Migrations\\20250406045716_Initial.cs",
+              "RelativeToolTip": "AgendaContato\\Migrations\\20250406045716_Initial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:15:58.508Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\TipoContato\\Index.cshtml",
               "RelativeDocumentMoniker": "AgendaContato\\Views\\TipoContato\\Index.cshtml",
@@ -230,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CONTATOGRUPO.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Models\\CONTATOGRUPO.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Models\\CONTATOGRUPO.cs",
@@ -242,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Privacy.cshtml",
@@ -254,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\appsettings.json",
               "RelativeDocumentMoniker": "AgendaContato\\appsettings.json",
@@ -266,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Controllers\\HomeController.cs",
@@ -278,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Program.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Program.cs",
@@ -290,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Criar.cshtml",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\TipoContato\\Criar.cshtml",
               "RelativeDocumentMoniker": "AgendaContato\\Views\\TipoContato\\Criar.cshtml",
@@ -302,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AgendaContato.csproj.Backup.tmp",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\AgendaContato.csproj.Backup.tmp",
               "RelativeDocumentMoniker": "AgendaContato\\AgendaContato.csproj.Backup.tmp",
@@ -314,19 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Microsoft.PackageDependencyResolution.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AgIAAAEBAAAAAAAAAAAcwAkBAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-05T01:04:20.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "SqlConnection.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Helpers\\SqlConnection.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Helpers\\SqlConnection.cs",
@@ -338,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "SqlConnectionExemplo.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Helpers\\SqlConnectionExemplo.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Helpers\\SqlConnectionExemplo.cs",
@@ -350,31 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CriarContato.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "RelativeToolTip": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T05:37:24.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Contato.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Contato.cshtml",
-              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Contato.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Contato.cshtml",
-              "RelativeToolTip": "AgendaContato\\Views\\Home\\Contato.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T05:37:07.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AGENDACONTATOSContext.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Data\\AGENDACONTATOSContext.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Data\\AGENDACONTATOSContext.cs",
@@ -386,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "AgendaContato\\Models\\ErrorViewModel.cs",
@@ -399,12 +418,20 @@
           ]
         },
         {
-          "DockedHeight": 170,
+          "DockedHeight": 64,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

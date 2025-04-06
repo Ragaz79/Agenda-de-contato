@@ -129,8 +129,7 @@
               "RelativeToolTip": "AgendaContato\\Migrations\\20250406045716_Initial.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:15:58.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T18:15:58.508Z"
             },
             {
               "$type": "Document",
@@ -142,8 +141,7 @@
               "RelativeToolTip": "AgendaContato\\Migrations\\AGENDACONTATOSContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:15:57.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T18:15:57.484Z"
             },
             {
               "$type": "Document",
@@ -155,8 +153,7 @@
               "RelativeToolTip": "AgendaContato\\Migrations\\20250405224149_InitialCreate.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T18:14:05.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T18:14:05.292Z"
             },
             {
               "$type": "Document",
@@ -168,8 +165,7 @@
               "RelativeToolTip": "AgendaContato\\Models\\TIPOCONTATO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:51:26.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:51:26.702Z"
             },
             {
               "$type": "Document",
@@ -181,8 +177,7 @@
               "RelativeToolTip": "AgendaContato\\Models\\GRUPOCONTATO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:54:28.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:54:28.364Z"
             },
             {
               "$type": "Document",
@@ -194,8 +189,7 @@
               "RelativeToolTip": "AgendaContato\\Models\\CONTATO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:47:00.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:47:00.474Z"
             },
             {
               "$type": "Document",
@@ -207,8 +201,7 @@
               "RelativeToolTip": "AgendaContato\\Controllers\\TipoContatoController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T23:29:13.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T23:29:13.343Z"
             },
             {
               "$type": "Document",
@@ -218,7 +211,7 @@
               "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\AEDB\\Desenvolvimento de Sistemas Web\\AV1\\AgendaContatos\\AgendaContato\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AgendaContato\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-01T22:16:09.292Z",
               "EditorCaption": ""
@@ -233,8 +226,7 @@
               "RelativeToolTip": "AgendaContato\\Views\\TipoContato\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T23:31:35.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T23:31:35.927Z"
             },
             {
               "$type": "Document",
@@ -246,8 +238,7 @@
               "RelativeToolTip": "AgendaContato\\Models\\CONTATOGRUPO.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAkwBUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T23:52:47.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T23:52:47.883Z"
             },
             {
               "$type": "Document",
@@ -283,8 +274,7 @@
               "RelativeToolTip": "AgendaContato\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T00:41:11.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T00:41:11.439Z"
             },
             {
               "$type": "Document",
@@ -296,8 +286,7 @@
               "RelativeToolTip": "AgendaContato\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T22:56:49.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T22:56:49.447Z"
             },
             {
               "$type": "Document",
@@ -309,8 +298,7 @@
               "RelativeToolTip": "AgendaContato\\Views\\TipoContato\\Criar.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T23:32:47.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T23:32:47.238Z"
             },
             {
               "$type": "Document",
