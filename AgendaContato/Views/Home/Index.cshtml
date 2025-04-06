@@ -3,62 +3,54 @@
 }
 
 <div class="text-center">
-	<h1>Contatos</h1>
-	<br />
+    <h1>Contatos</h1>
+    <br />
 
-	<table class="table">
-		<thead>
-			<tr>
-				<th>
-					Nome
-				</th>
-				<th>
-					Telefone
-				</th>
-				<th>
-					Categoria
-				</th>
-				<th>
-					Grupo
-				</th>
-				<th>
-					Favorito
-				</th>
-				<th>
-					Ação
-				</th>
-			</tr>
-		</thead>
-		@* <tbody>
-			@{
-				foreach (var X in Model)
-				{
-					<tr> 
-						<td>
-							@X.Nome
-						</td>
-						<td>
-							@X.Telefone
-						</td>
-						<td>
-							@X.Categoria
-						</td>
-						<td>
-							@X.Nome
-						</td>
-						<td>
-							@X.Grupo
-						</td>
-						<td>
-							@X.Favorito
-						</td>
-						<td>
-							<a asp-controller="Home" asp-action="Contato" class="btn btn-primary">Contatos</a>
-							<a asp-controller="Home" asp-action="CriarContato" class="btn btn-secondary">Criar novos contatos</a>
-						</td>
-					</tr>
-				}
-			}
-		</tbody> *@
-	</table>
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Nome</th>
+                <th>Telefone</th>
+                <th>Categoria</th>
+                <th>Grupo</th>
+                <th>Favorito</th>
+                <th>Ação</th>
+            </tr>
+        </thead>
+        @* Quando for ativar o Model, descomente esse trecho abaixo *@
+        @* 
+        <tbody>
+            @foreach (var contato in Model)
+            {
+                <tr>
+                    <td>@contato.Nome</td>
+                    <td>@contato.Telefone</td>
+                    <td>@contato.TipoContato.Nome</td>
+                    <td>@contato.Grupo.Nome</td>
+                    <td>
+                        @if (contato.Favorito)
+                        {
+                            <i class="fa fa-star text-warning"></i>
+                        }
+                        else
+                        {
+                            <i class="fa fa-star-o text-secondary"></i>
+                        }
+                    </td>
+                    <td>
+                        <a asp-controller="Contatos" asp-action="Detalhes" asp-route-id="@contato.Id" class="btn btn-info btn-sm">
+                            <i class="fa fa-eye"></i>
+                        </a>
+                        <a asp-controller="Contatos" asp-action="Editar" asp-route-id="@contato.Id" class="btn btn-warning btn-sm">
+                            <i class="fa fa-pencil"></i>
+                        </a>
+                        <a asp-controller="Contatos" asp-action="Excluir" asp-route-id="@contato.Id" class="btn btn-danger btn-sm">
+                            <i class="fa fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        *@
+    </table>
 </div>
