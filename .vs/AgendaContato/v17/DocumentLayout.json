@@ -103,7 +103,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 436,
+          "DockedHeight": 354,
           "SelectedChildIndex": 9,
           "Children": [
             {
@@ -207,6 +207,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "20250405224149_InitialCreate.cs",
@@ -266,10 +270,6 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T18:15:58.508Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -418,7 +418,7 @@
           ]
         },
         {
-          "DockedHeight": 64,
+          "DockedHeight": 146,
           "SelectedChildIndex": -1,
           "Children": [
             {
