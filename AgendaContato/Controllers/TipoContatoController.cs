@@ -33,12 +33,12 @@ namespace AgendaContato.Controllers
         [HttpPost]
         public IActionResult Criar(TIPOCONTATO model)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(model);
-            }
-
-            if (model.TIPO_COD == 0)
+            //if (!ModelState.IsValid)
+            //{
+                //return View(model);
+            //}
+            var tipoExistente = _context.TIPOCONTATOS.Any(t => t.TIPO_COD == model.TIPO_COD);
+            if (!tipoExistente)
             {
                 _context.TIPOCONTATOS.Add(model);
             }

@@ -35,7 +35,7 @@ public class HomeController : Controller
     }
     public IActionResult CriarContato(int? id)
     {
-        ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "NOME_TIPO");
+        ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "TIPO_NOME");
 
         if (id != null)
         {
@@ -61,7 +61,7 @@ public class HomeController : Controller
         bool tipoExiste = _context.TIPOCONTATOS.Any(t => t.TIPO_COD == model.TIPO_COD);
         //if (!tipoExiste)
         //{
-        //    ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "NOME_TIPO");
+        //    ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "TIPO_NOME");
         //    ModelState.AddModelError("TIPO_COD", "Tipo de contato inválido.");
         //    return View("CriarContato", model);
         //}

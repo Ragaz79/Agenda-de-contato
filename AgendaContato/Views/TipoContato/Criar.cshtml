@@ -1,4 +1,9 @@
-﻿@model AgendaContato.Models.TIPOCONTATO
+﻿@section Scripts {
+@{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@model AgendaContato.Models.TIPOCONTATO
 @{
     ViewData["Title"] = "Criar / Editar Tipo";
 }
