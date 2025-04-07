@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\js\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.all.min.js"
+    },
+    {
       "Id": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
@@ -255,6 +259,10 @@
     {
       "Id": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\sweetalert\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert\\sweetalert2.min.css"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AgendaContato.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

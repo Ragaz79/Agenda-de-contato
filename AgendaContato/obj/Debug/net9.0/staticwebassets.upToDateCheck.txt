@@ -26,6 +26,7 @@ C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstr
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\js\site.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\js\sweetalert2.all.min.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\jquery\LICENSE.txt
@@ -52,6 +53,7 @@ C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\favicon.ico
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\sweetalert\sweetalert2.min.css
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\jquery\dist\jquery.slim.min.map
@@ -63,6 +65,7 @@ C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\wwwroot\lib\jquery\
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
+wwwroot\js\sweetalert2.all.min.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -123,3 +126,4 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\sweetalert\sweetalert2.min.css

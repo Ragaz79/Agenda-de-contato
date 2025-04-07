@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\golia\\documents\\git\\agenda-de-contato\\agendacontato\\data\\agendacontatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\data\\agendacontatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\golia\\documents\\git\\agenda-de-contato\\agendacontato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\golia\\documents\\git\\agenda-de-contato\\agendacontato\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\contato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Program.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Program.cs",
-              "ToolTip": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Program.cs",
-              "RelativeToolTip": "AgendaContato\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T17:39:08.797Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AGENDACONTATOSContext.cs",
-              "DocumentMoniker": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "ToolTip": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "RelativeToolTip": "AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T17:37:11.744Z"
+              "Title": "Contato.cshtml",
+              "DocumentMoniker": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Views\\Home\\Contato.cshtml",
+              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\Contato.cshtml",
+              "ToolTip": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Views\\Home\\Contato.cshtml",
+              "RelativeToolTip": "AgendaContato\\Views\\Home\\Contato.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T22:55:04.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,9 +49,9 @@
               "RelativeDocumentMoniker": "AgendaContato\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AgendaContato\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T20:55:32.362Z",
+              "WhenOpened": "2025-04-06T22:54:50.517Z",
               "EditorCaption": ""
             }
           ]

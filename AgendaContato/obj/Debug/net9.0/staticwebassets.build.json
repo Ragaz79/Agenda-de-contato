@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ulYoBZTm8gd+bVOAgLzU59Jiv6/XNg1PvRHp5fiDyyU=",
+  "Hash": "DIvkV3Xo8FVVD7qA05AdD23vK5onhgSSm6d8tU4Vslk=",
   "Source": "AgendaContato",
   "BasePath": "_content/AgendaContato",
   "Mode": "Default",
@@ -605,6 +605,27 @@
       "OriginalItemSpec": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+      "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\dsqk17zj37-ghqu0cxyoo.gz",
+      "SourceId": "AgendaContato",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AgendaContato",
+      "RelativePath": "js/sweetalert2.all.min#[.{fingerprint=ghqu0cxyoo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\js\\sweetalert2.all.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "h2pvxtpbnf",
+      "Integrity": "qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\js\\sweetalert2.all.min.js"
+    },
+    {
       "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\e2a7kauw2j-hd3gran6i8.gz",
       "SourceId": "AgendaContato",
       "SourceType": "Discovered",
@@ -1193,6 +1214,27 @@
       "OriginalItemSpec": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+      "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\yae1hna1ye-gy27xc2laa.gz",
+      "SourceId": "AgendaContato",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/AgendaContato",
+      "RelativePath": "lib/sweetalert/sweetalert2.min#[.{fingerprint=gy27xc2laa}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\sweetalert\\sweetalert2.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "klh00h44tk",
+      "Integrity": "GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\sweetalert\\sweetalert2.min.css"
+    },
+    {
       "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\yggqsfafhd-4094rpi4f9.gz",
       "SourceId": "AgendaContato",
       "SourceType": "Discovered",
@@ -1464,6 +1506,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\js\\sweetalert2.all.min.js",
+      "SourceId": "AgendaContato",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\",
+      "BasePath": "_content/AgendaContato",
+      "RelativePath": "js/sweetalert2.all.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ghqu0cxyoo",
+      "Integrity": "lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sweetalert2.all.min.js"
     },
     {
       "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -2724,6 +2787,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\sweetalert\\sweetalert2.min.css",
+      "SourceId": "AgendaContato",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\",
+      "BasePath": "_content/AgendaContato",
+      "RelativePath": "lib/sweetalert/sweetalert2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gy27xc2laa",
+      "Integrity": "SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\sweetalert\\sweetalert2.min.css"
     }
   ],
   "Endpoints": [
@@ -4214,6 +4298,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+        }
+      ]
+    },
+    {
+      "Route": "js/sweetalert2.all.min.ghqu0cxyoo.js",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\dsqk17zj37-ghqu0cxyoo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000050160514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghqu0cxyoo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sweetalert2.all.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0="
+        }
+      ]
+    },
+    {
+      "Route": "js/sweetalert2.all.min.ghqu0cxyoo.js",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\js\\sweetalert2.all.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghqu0cxyoo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sweetalert2.all.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0="
+        }
+      ]
+    },
+    {
+      "Route": "js/sweetalert2.all.min.ghqu0cxyoo.js.gz",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\dsqk17zj37-ghqu0cxyoo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghqu0cxyoo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sweetalert2.all.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI="
+        }
+      ]
+    },
+    {
+      "Route": "js/sweetalert2.all.min.js",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\dsqk17zj37-ghqu0cxyoo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000050160514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0="
+        }
+      ]
+    },
+    {
+      "Route": "js/sweetalert2.all.min.js",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\js\\sweetalert2.all.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74925"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lCHT/LfuZjRp+PdpWns/vKrnSn367D/g1E6Ju18wiH0="
+        }
+      ]
+    },
+    {
+      "Route": "js/sweetalert2.all.min.js.gz",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\dsqk17zj37-ghqu0cxyoo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qTVB7gTAglME9EXY3ZbdIA/6wUZQvzbz/Q27W2lGfaI="
         }
       ]
     },
@@ -21878,6 +22260,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert/sweetalert2.min.css",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\yae1hna1ye-gy27xc2laa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000218435998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4577"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert/sweetalert2.min.css",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\sweetalert\\sweetalert2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert/sweetalert2.min.css.gz",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\yae1hna1ye-gy27xc2laa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert/sweetalert2.min.gy27xc2laa.css",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\yae1hna1ye-gy27xc2laa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000218435998"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4577"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gy27xc2laa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/sweetalert/sweetalert2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert/sweetalert2.min.gy27xc2laa.css",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\wwwroot\\lib\\sweetalert\\sweetalert2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gy27xc2laa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/sweetalert/sweetalert2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SCRy3fXoOamBaidKByHs9iJVLYJ65R/v6ycZNN4JhmE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/sweetalert/sweetalert2.min.gy27xc2laa.css.gz",
+      "AssetFile": "C:\\Users\\Golia\\Documents\\Git\\Agenda-de-contato\\AgendaContato\\obj\\Debug\\net9.0\\compressed\\yae1hna1ye-gy27xc2laa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Apr 2025 22:36:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gy27xc2laa"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/sweetalert/sweetalert2.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GH2Xmxh8KyhFpsl4D1s0Lebu9ePrYKovDzurP2VAbsE="
         }
       ]
     }

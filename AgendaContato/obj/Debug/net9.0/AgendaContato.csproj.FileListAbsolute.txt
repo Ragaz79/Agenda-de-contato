@@ -690,3 +690,5 @@ C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\Ag
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.genruntimeconfig.cache
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\ref\AgendaContato.dll
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\dsqk17zj37-ghqu0cxyoo.gz
+C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\yae1hna1ye-gy27xc2laa.gz
