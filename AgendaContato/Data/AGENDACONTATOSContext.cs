@@ -15,7 +15,7 @@ namespace AgendaContato.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-M7GU6EU;Database=AGENDACONTATOS;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=desktop-8siv346;Database=AgendaContatos;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
         }
     }
 }

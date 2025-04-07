@@ -1,0 +1,28 @@
+﻿@model AgendaContato.Models.GRUPOCONTATO
+@{
+    if (false)
+    { ViewData["Title"] = "Editar Grupo";}
+    else 
+    { ViewData["Title"] = "Criar Grupo";}
+
+    ViewData["Title"] = "Criar Grupo";
+}
+<h1>Criar/EditarGrupos</h1>
+<form asp-action="CriarEditarGrupoForm" asp-controller="Home">
+    @* Exibe todos os erros de validação no topo *@
+    @*Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+
+    @* <input hidden class="form-control" type="number" asp-for="" /> *@
+
+    @* <label class="mt-4">Nome Grupo</label>
+    <input class="form-control" type="text" maxlength="15" placeholder="Add a description" asp-for="" />
+    <span asp-validation-for="" class="text-danger"></span> *@
+
+    @* <label class="mt-4">Contatos</label>
+    <select class="form-control" asp-for="" asp-items="ViewBag.">
+        <option value="">Selecione um tipo</option>
+    </select>
+    <span asp-validation-for="" class="text-danger"></span> *@
+
+    <button class="btn btn-primary mt-4" type="submit">Ok</button>
+</form>

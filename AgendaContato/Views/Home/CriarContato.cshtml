@@ -13,12 +13,12 @@
 
     <input hidden class="form-control" type="number" asp-for="CONTATO_COD" />
 
-    <label class="mt-4">Value $</label>
-    <input class="form-control" type="number" placeholder="0" asp-for="CONTATO_NUMERO" step="0.01" />
+    <label class="mt-4">Número Telefone/Celular</label>
+    <input class="form-control" type="number" maxlength="9" placeholder="0" asp-for="CONTATO_NUMERO" step="0.01" />
     <span asp-validation-for="CONTATO_NUMERO" class="text-danger"></span>
 
-    <label class="mt-4">Description</label>
-    <input class="form-control" type="text" placeholder="Add a description" asp-for="CONTATO_NOME" />
+    <label class="mt-4">Nome</label>
+    <input class="form-control" type="text" maxlength="18" placeholder="Add a description" asp-for="CONTATO_NOME" />
     <span asp-validation-for="CONTATO_NOME" class="text-danger"></span>
 
     <label class="mt-4">Tipo de Contato</label>

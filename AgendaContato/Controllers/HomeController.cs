@@ -33,6 +33,23 @@ public class HomeController : Controller
         var todoContatos = _context.CONTATOS.ToList();
         return View(todoContatos);
     }
+
+    public IActionResult ViewGrupos()
+    {
+        return View();
+    }
+
+    public IActionResult Favoritos()
+    {
+        return View();
+    }
+
+    //public IActionResult ContatoFavorito()
+    //{
+    //    var todoContatos = _context.CONTATOS.Where(contato => contato.CONTATO_FAVORITO == true).ToList();
+    //    return View(todoContatos);
+    //}
+
     public IActionResult CriarContato(int? id)
     {
         ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "NOME_TIPO");

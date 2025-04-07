@@ -1,0 +1,19 @@
+﻿@model AgendaContato.Models.GRUPOCONTATO
+
+@{
+    ViewData["Title"] = "Criar ou Editar Grupo";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Criar ou Editar Grupo</h1>
+</div>
+
+<form asp-action="CriarGrupoForm" asp-controller="GrupoContato">
+    <input type="hidden" asp-for="GRUPO_ID" />
+
+    <label class="mt-4">Nome do Grupo</label>
+    <input class="form-control" asp-for="GRUPO_NOME" placeholder="Informe o nome do grupo" />
+    <span asp-validation-for="GRUPO_NOME" class="text-danger"></span>
+
+    <button class="btn btn-primary mt-4" type="submit">Salvar</button>
+</form>
