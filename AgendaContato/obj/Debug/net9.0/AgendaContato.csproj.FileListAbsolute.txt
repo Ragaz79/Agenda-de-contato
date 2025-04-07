@@ -683,10 +683,10 @@ C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\st
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AgendaContato.props
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AgendaContato.props
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaCo.A7B0A7E0.Up2Date
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.dll
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\refint\AgendaContato.dll
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.pdb
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.genruntimeconfig.cache
 C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\ref\AgendaContato.dll
+C:\Users\Golia\Documents\Git\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AGENDACONTATOSContext>(options =>
     //Conexao com o banco de dados
-    options.UseSqlServer(SqlConnection.connectionString));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
 var app = builder.Build();
