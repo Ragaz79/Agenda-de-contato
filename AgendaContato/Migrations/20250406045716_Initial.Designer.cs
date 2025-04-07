@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AgendaContato.Migrations
 {
     [DbContext(typeof(AGENDACONTATOSContext))]
-    [Migration("20250331235917_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20250406045716_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,7 +33,7 @@ namespace AgendaContato.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CONTATO_COD"));
 
-                    b.Property<bool>("CONTATO_FAVORITO")
+                    b.Property<bool?>("CONTATO_FAVORITO")
                         .HasColumnType("bit")
                         .HasColumnName("CONTATO_FAVORITO");
 
@@ -49,7 +49,7 @@ namespace AgendaContato.Migrations
                         .HasColumnType("nvarchar(30)")
                         .HasColumnName("CONTATO_NUMERO");
 
-                    b.Property<int>("TIPO_COD")
+                    b.Property<int?>("TIPO_COD")
                         .HasColumnType("int")
                         .HasColumnName("TIPO_COD");
 
@@ -130,9 +130,7 @@ namespace AgendaContato.Migrations
                 {
                     b.HasOne("AgendaContato.Models.TIPOCONTATO", "TIPOCONTATO")
                         .WithMany("CONTATOS")
-                        .HasForeignKey("TIPO_COD")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("TIPO_COD");
 
                     b.Navigation("TIPOCONTATO");
                 });

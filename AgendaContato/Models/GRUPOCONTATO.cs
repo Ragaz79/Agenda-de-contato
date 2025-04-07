@@ -8,7 +8,7 @@ namespace AgendaContato.Models
     {
         [Key]
         [Column("GRUPO_ID")]
-        public int GRUPO_ID { get; set; }
+        public int? GRUPO_ID { get; set; }
 
         [Required]
         [MaxLength(100)]

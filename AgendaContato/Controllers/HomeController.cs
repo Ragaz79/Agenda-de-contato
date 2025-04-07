@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using AgendaContato.Models;
 using AgendaContato.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace AgendaContato.Controllers;
 
@@ -25,8 +26,16 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var contatos = _context.CONTATOS
+            .Include(c => c.TIPOCONTATO) // Isso é importante pra acessar TIPO_NOME
+            .ToList();
+
+        return View(contatos);
     }
+    //public IActionResult Index()
+    //{
+    //    return View();
+    //}
 
     public IActionResult Contato()
     {
@@ -35,7 +44,7 @@ public class HomeController : Controller
     }
     public IActionResult CriarContato(int? id)
     {
-        ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "NOME_TIPO");
+        ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "TIPO_NOME");
 
         if (id != null)
         {
@@ -49,20 +58,22 @@ public class HomeController : Controller
 
     public IActionResult DeletaContato(int id)
     {
-        var contatoInDb = _context.CONTATOS.SingleOrDefault(expense => expense.CONTATO_COD == id);
+        var contatoInDb = _context.CONTATOS.SingleOrDefault(contato => contato.CONTATO_COD == id);
         _context.CONTATOS.Remove(contatoInDb);
         _context.SaveChanges();
-        return RedirectToAction("Contatos");
+        return RedirectToAction("Index"); ///////////////
     }
+    [HttpPost]
     public IActionResult CriarContatoForm(CONTATO model)
     {
         // Verificar se o TIPO_COD é válido (existe no banco)
         bool tipoExiste = _context.TIPOCONTATOS.Any(t => t.TIPO_COD == model.TIPO_COD);
-        if (!tipoExiste)
-        {
-            ModelState.AddModelError("TIPO_COD", "Tipo de contato inválido.");
-            return View("CriarContato", model);
-        }
+        //if (!tipoExiste)
+        //{
+        //    ViewBag.Tipos = new SelectList(_context.TIPOCONTATOS.ToList(), "TIPO_COD", "TIPO_NOME");
+        //    ModelState.AddModelError("TIPO_COD", "Tipo de contato inválido.");
+        //    return View("CriarContato", model);
+        //}
 
         if (model.CONTATO_COD == 0)
         {
@@ -76,7 +87,7 @@ public class HomeController : Controller
         }
 
         _context.SaveChanges();
-        return RedirectToAction("Contato");
+        return RedirectToAction("index");////////////////////////
     }
 
     public IActionResult TipoContato()

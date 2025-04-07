@@ -1,0 +1,22 @@
+﻿@section Scripts {
+@{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@model AgendaContato.Models.TIPOCONTATO
+@{
+    ViewData["Title"] = "Criar / Editar Tipo";
+}
+
+<h2>Criar / Editar Tipo de Contato</h2>
+
+<form asp-action="Criar" method="post">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <input type="hidden" asp-for="TIPO_COD" />
+
+    <label class="mt-2">Nome do Tipo</label>
+    <input class="form-control" asp-for="TIPO_NOME" />
+    <span asp-validation-for="TIPO_NOME" class="text-danger"></span>
+
+    <button class="btn btn-success mt-3" type="submit">Salvar</button>
+</form>

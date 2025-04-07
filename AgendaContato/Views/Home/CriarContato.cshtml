@@ -4,22 +4,28 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Create or edit an expense</h1>
+    <h1 class="display-4">Criar ou editar contato</h1>
 </div>
 
 <form asp-action="CriarContatoForm" asp-controller="Home">
+    @* Exibe todos os erros de validação no topo *@
+    @*Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+
     <input hidden class="form-control" type="number" asp-for="CONTATO_COD" />
 
-    <label class="mt-4">Value $</label>
+    <label class="mt-4">Número</label>
     <input class="form-control" type="number" placeholder="0" asp-for="CONTATO_NUMERO" step="0.01" />
+    <span asp-validation-for="CONTATO_NUMERO" class="text-danger"></span>
 
-    <label class="mt-4">Description</label>
-    <input class="form-control" type="text" placeholder="Add a description" asp-for="CONTATO_NOME" />
+    <label class="mt-4">Nome</label>
+    <input class="form-control" type="text" placeholder="Nome" asp-for="CONTATO_NOME" />
+    <span asp-validation-for="CONTATO_NOME" class="text-danger"></span>
 
     <label class="mt-4">Tipo de Contato</label>
     <select class="form-control" asp-for="TIPO_COD" asp-items="ViewBag.Tipos">
         <option value="">Selecione um tipo</option>
     </select>
+    <span asp-validation-for="TIPO_COD" class="text-danger"></span>
 
     <button class="btn btn-primary mt-4" type="submit">Ok</button>
 </form>

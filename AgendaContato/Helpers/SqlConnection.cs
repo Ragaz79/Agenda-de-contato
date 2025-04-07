@@ -2,12 +2,12 @@
 {
     public class SqlConnection
     {
-        static string nomeDesktop = "desktop-8siv346";
+        static string nomeDesktop = "DESKTOP-M7GU6EU";
 
-        static string nomeBancoDados = "AgendaContatos";
+        static string nomeBancoDados = "AGENDACONTATOS";
 
-        public static string connectionString = $"Data Source={nomeDesktop}\\SQLEXPRESS;" + 
-            $"Initial Catalog={nomeBancoDados};" + 
+        public static string connectionString = $"Data Source={nomeDesktop}\\SQLEXPRESS;" +
+            $"Initial Catalog={nomeBancoDados};" +
             "Integrated Security=True;Pooling=False;TrustServerCertificate = true;";
     }
 }
