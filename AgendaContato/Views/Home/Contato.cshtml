@@ -1,12 +1,12 @@
 ﻿@{
     ViewData["Title"] = "Contatos";
 }
-@model List<CONTATO>
+@*@model List<CONTATO>
 <div class="text-center">
     <h1 class="display-4">Contatos</h1>
     <br />
     <table class="table">
-        <thread>
+        <thead>
             <tr>
                 <th>
                     Id
@@ -21,9 +21,9 @@
                     Actions
                 </th>
             </tr>
-        </thread>
+        </thead>
         <tbody>
-            @{
+            @* @{
                 foreach (var contato in Model)
                 {
                     <tr>
@@ -42,7 +42,7 @@
                         </td>
                     </tr>
                 }
-            }
-        </tbody>
+            } *@
+       @*  </tbody>
     </table>
-</div>
+</div> *@

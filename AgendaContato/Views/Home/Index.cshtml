@@ -2,60 +2,124 @@
     ViewData["Title"] = "Home Page";
 }
 
+@model List<AgendaContato.Models.CONTATO>
+
 <div class="text-center">
     <h1>Contatos</h1>
-    <a asp-controller="Home" asp-action="Contato" class="btn btn-primary">Contatos</a>
-    <a asp-controller="Home" asp-action="CriarContato" class="btn btn-secondary">Criar novos contatos</a>
-    <a asp-controller="TipoContato" asp-action="Index">Tipos de Contato</a>
-    <a asp-controller="TipoContato2" asp-action="Index">Tipos de Contato</a>
-    
+    <a asp-controller="Home" asp-action="CriarContato" class="btn btn-primary"> + Criar novos contatos</a>
     <br />
 
-    <table class="table table-bordered table-striped">
+    <table class="table table-bordered table-striped mt-3">
         <thead class="thead-dark">
             <tr>
                 <th>Nome</th>
                 <th>Telefone</th>
                 <th>Categoria</th>
-                <th>Grupo</th>
-                <th>Favorito</th>
                 <th>Ação</th>
             </tr>
         </thead>
-        @* Quando for ativar o Model, descomente esse trecho abaixo *@
-        @* 
         <tbody>
             @foreach (var contato in Model)
             {
+                string tipoContato = contato.TIPOCONTATO != null ? contato.TIPOCONTATO.TIPO_NOME : "Sem grupo";
                 <tr>
-                    <td>@contato.Nome</td>
-                    <td>@contato.Telefone</td>
-                    <td>@contato.TipoContato.Nome</td>
-                    <td>@contato.Grupo.Nome</td>
+                    <td>@contato.CONTATO_NOME</td>
+                    <td>@contato.CONTATO_NUMERO</td>
+                    <td>@tipoContato</td>
                     <td>
-                        @if (contato.Favorito)
-                        {
-                            <i class="fa fa-star text-warning"></i>
-                        }
-                        else
-                        {
-                            <i class="fa fa-star-o text-secondary"></i>
-                        }
-                    </td>
-                    <td>
-                        <a asp-controller="Contatos" asp-action="Detalhes" asp-route-id="@contato.Id" class="btn btn-info btn-sm">
-                            <i class="fa fa-eye"></i>
-                        </a>
-                        <a asp-controller="Contatos" asp-action="Editar" asp-route-id="@contato.Id" class="btn btn-warning btn-sm">
-                            <i class="fa fa-pencil"></i>
-                        </a>
-                        <a asp-controller="Contatos" asp-action="Excluir" asp-route-id="@contato.Id" class="btn btn-danger btn-sm">
-                            <i class="fa fa-trash"></i>
-                        </a>
+                        <a asp-action="CriarContato" asp-route-id="@contato.CONTATO_COD" class="btn btn-sm btn-warning">Editar</a>
+                        <a asp-action="DeletaContato" asp-route-id="@contato.CONTATO_COD" class="btn btn-sm btn-danger">Excluir</a>
                     </td>
                 </tr>
             }
         </tbody>
-        *@
     </table>
 </div>
+
+
+
+@* @{
+//     ViewData["Title"] = "Home Page";
+// }
+
+// @model List<CONTATO>
+
+
+// <div class="text-center">
+//     <h1>Contatos</h1>
+//     <a asp-controller="Home" asp-action="Contato" class="btn btn-primary">Contatos</a>
+//     <a asp-controller="Home" asp-action="CriarContato" class="btn btn-secondary">Criar novos contatos</a>
+//     <a asp-controller="TipoContato" asp-action="Index">Tipos de Contato</a>   
+//     <br/>
+
+//     <table class="table table-bordered table-striped">
+//         <thead class="thead-dark">
+//             <tr>
+//                 <th>Nome</th>
+//                 <th>Telefone</th>
+//                 <th>Categoria</th>
+//                 <th>Grupo</th>
+//                 <th>Favorito</th>
+//                 <th>Ação</th>
+//             </tr>
+//             @{
+//                 foreach (var contato in Model)
+//                 {
+//                     <tr>
+//                         <td>
+//                             @contato.CONTATO_COD
+//                         </td>
+//                         <td>
+//                             @contato.CONTATO_NUMERO
+//                         </td>
+//                         <td>
+//                             @contato.CONTATO_NOME
+//                         </td>
+//                         <td>
+//                             @contato.TIPO_NOME
+//                         <td>
+//                             <a asp-action="CriarContato" asp-route-id="@contato.CONTATO_COD">Edit</a>
+//                             <a asp-action="DeletaContato" asp-route-id="@contato.CONTATO_COD">Delete</a>
+//                         </td>
+//                     </tr>
+//                 }
+//             }
+//         </thead>
+//         @* Quando for ativar o Model, descomente esse trecho abaixo *@
+         @* 
+//         <tbody>
+//             @foreach (var contato in Model)
+//             {
+//                 <tr>
+//                     <td>@contato.Nome</td>
+//                     <td>@contato.Telefone</td>
+//                     <td>@contato.TipoContato.Nome</td>
+//                     <td>@contato.Grupo.Nome</td>
+//                     <td>
+//                         @if (contato.Favorito)
+//                         {
+//                             <i class="fa fa-star text-warning"></i>
+//                         }
+//                         else
+//                         {
+//                             <i class="fa fa-star-o text-secondary"></i>
+//                         }
+//                     </td>
+//                     <td>
+//                         <a asp-controller="Contatos" asp-action="Detalhes" asp-route-id="@contato.Id" class="btn btn-info btn-sm">
+//                             <i class="fa fa-eye"></i>
+//                         </a>
+//                         <a asp-controller="Contatos" asp-action="Editar" asp-route-id="@contato.Id" class="btn btn-warning btn-sm">
+//                             <i class="fa fa-pencil"></i>
+//                         </a>
+//                         <a asp-controller="Contatos" asp-action="Excluir" asp-route-id="@contato.Id" class="btn btn-danger btn-sm">
+//                             <i class="fa fa-trash"></i>
+//                         </a>
+//                     </td>
+//                 </tr>
+//             }
+//         </tbody>
+//         *@
+@*//    @* </table>
+// </div>*@
+@*-->*@

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using AgendaContato.Models;
 using AgendaContato.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace AgendaContato.Controllers;
 
@@ -25,8 +26,16 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        var contatos = _context.CONTATOS
+            .Include(c => c.TIPOCONTATO) // Isso é importante pra acessar TIPO_NOME
+            .ToList();
+
+        return View(contatos);
     }
+    //public IActionResult Index()
+    //{
+    //    return View();
+    //}
 
     public IActionResult Contato()
     {
@@ -52,7 +61,7 @@ public class HomeController : Controller
         var contatoInDb = _context.CONTATOS.SingleOrDefault(contato => contato.CONTATO_COD == id);
         _context.CONTATOS.Remove(contatoInDb);
         _context.SaveChanges();
-        return RedirectToAction("Contato");
+        return RedirectToAction("Index"); ///////////////
     }
     [HttpPost]
     public IActionResult CriarContatoForm(CONTATO model)
@@ -78,7 +87,7 @@ public class HomeController : Controller
         }
 
         _context.SaveChanges();
-        return RedirectToAction("Contato");
+        return RedirectToAction("index");////////////////////////
     }
 
     public IActionResult TipoContato()
