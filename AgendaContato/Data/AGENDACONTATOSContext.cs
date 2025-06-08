@@ -13,9 +13,5 @@ namespace AgendaContato.Data
         public DbSet<GRUPOCONTATO> GRUPOCONTATOS { get; set; }
         public DbSet<CONTATOGRUPO> CONTATOSGRUPOS { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-M434B8H;Database=AGENDACONTATOS;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
-        }
     }
 }

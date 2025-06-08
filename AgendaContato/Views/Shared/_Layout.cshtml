@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - AgendaContato</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/lib/sweetalert/sweetalert2.min.css/>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AgendaContato.styles.css" asp-append-version="true" />
     <style>
@@ -54,8 +53,8 @@
     <!-- Menu lateral -->
     <div class="sidebar">
         <h3>Agenda de Contatos</h3>
-        <a asp-controller="Home" asp-controller="Contatos" asp-action="Index">Contatos</a>
-        <a asp-area="" asp-controller="Contatos" asp-action="Favoritos">Favoritos</a>
+        <a asp-controller="Home" asp-action="Index">Contatos</a>
+        <a asp-controller="Home" asp-action="Favoritar">Favoritos</a>
         @* <a asp-controller="Home" asp-action="Contato">Contatos</a> *@
         <a asp-controller="TipoContato" asp-action="Index">Tipos de Contatos</a>
 
@@ -76,8 +75,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/lib/sweetalert/sweetalert2.all.min.js" asp-append-version="true"></script>
-    <script src="https://kit.fontawesome.com/f04cc3a954.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/22ac0ef1d5.js" crossorigin="anonymous"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -23,8 +23,8 @@
                 <td>@tipo.TIPO_COD</td>
                 <td>@tipo.TIPO_NOME</td>
                 <td>
-                    <a asp-action="Criar" asp-route-id="@tipo.TIPO_COD">Editar</a> |
-                    <a asp-action="Deletar" asp-route-id="@tipo.TIPO_COD">Deletar</a>
+                    <a asp-action="Criar" asp-route-id="@tipo.TIPO_COD" class="btn btn-sm btn-warning"><i class="fa-solid fa-pencil"></i></a> |
+                    <a asp-action="Deletar" asp-route-id="@tipo.TIPO_COD" class="btn btn-sm btn-danger"><i class="fa-solid fa-trash"></i></a>
                 </td>
             </tr>
         }

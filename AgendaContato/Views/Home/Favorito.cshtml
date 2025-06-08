@@ -17,29 +17,31 @@
                 <th>Nome</th>
                 <th>Telefone</th>
                 <th>Categoria</th>
+                <th>Favorito</th>
                 <th>Ação</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var contato in Model)
-            {
-                string tipoContato = contato.TIPOCONTATO != null ? contato.TIPOCONTATO.TIPO_NOME : "Sem grupo";
-                <tr>
-                    <td>@contato.CONTATO_NOME</td>
-                    <td>@contato.CONTATO_NUMERO</td>
-                    <td>@tipoContato</td>
-                    <td>
-                        <form asp-action="FavoritoContato" asp-route-id="@contato.CONTATO_COD" method="post">
-                            <button type="submit" style="border: none; background: transparent;">
-                                <i class="@(contato.CONTATO_FAVORITO == true ? "fa-solid fa-star" : "fa-regular fa-star")"></i>
-                            </button>
-                        </form>
-                    </td>
-                    <td>
-                        <a asp-action="CriarContato" asp-route-id="@contato.CONTATO_COD" class="btn btn-sm btn-warning"><i class="fa-solid fa-pencil"></i></a>
-                        <a href="#" onclick="confirmarExclusao(@contato.CONTATO_COD)" class="btn btn-sm btn-danger"><i class="fa-solid fa-trash"></i></a>
-                    </td>
-                </tr>
+            @{
+                foreach (var contato in Model)
+                {
+                    if (contato.CONTATO_FAVORITO.HasValue && contato.CONTATO_FAVORITO == true)
+                    {
+                        string tipoContato = contato.TIPOCONTATO != null ? contato.TIPOCONTATO.TIPO_NOME : "Sem grupo";
+                        <tr>
+                            <td>@contato.CONTATO_NOME</td>
+                            <td>@contato.CONTATO_NUMERO</td>
+                            <td>@tipoContato</td>
+                            <td>
+                                <i class="fa-solid fa-star"></i>
+                            </td>
+                            <td>
+                                <a asp-action="CriarContato" asp-route-id="@contato.CONTATO_COD" class="btn btn-sm btn-warning"><i class="fa-solid fa-pencil"></i></a>
+                                <a href="#" onclick="confirmarExclusao(@contato.CONTATO_COD)" class="btn btn-sm btn-danger"><i class="fa-solid fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                }
             }
         </tbody>
     </table>
