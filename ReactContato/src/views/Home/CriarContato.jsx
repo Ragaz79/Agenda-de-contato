@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function CriarContatos() {
+function CriarContato() {
     return (
 
         <div>
@@ -24,3 +24,4 @@ function CriarContatos() {
         </div>
     )
 }
+export default CriarContato

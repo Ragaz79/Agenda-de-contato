@@ -1,10 +1,18 @@
 import { useState } from 'react'
+import CriarContato from './CriarContato'
+import { Link } from 'react-router-dom';
+
+
 
 function IndexContato() {
+
+    // <Route path="/criar-contato" element={<CriarContato />} />
+    
     return (
         <div>
+
             <h1>Contatos</h1>
-            <a href="CriarContato"></a>
+            <Link to='CriarContato' className='btn btn-primary'>Criar Contato</Link>
             <br />
 
             <table className='table table-bordered table-striped mt-3'>
@@ -24,7 +32,7 @@ function IndexContato() {
                             <td></td>
                             <td>
                                 <button>
-                                    <i></i>
+                                    <i className='fa-solid fa-star'></i>
                                 </button>
                             </td>
                             <td>
