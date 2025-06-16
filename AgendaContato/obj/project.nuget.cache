@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YDxOLH+f4mU=",
+  "dgSpecHash": "5vp+EEXEXzA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\AgendaContato.csproj",
+  "projectFilePath": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\AgendaContato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bielango\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Bielango\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

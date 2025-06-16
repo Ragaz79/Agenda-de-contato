@@ -4748,11 +4748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\AgendaContato.csproj",
+      "projectUniqueName": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\AgendaContato.csproj",
       "projectName": "AgendaContato",
-      "projectPath": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\AgendaContato.csproj",
+      "projectPath": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\AgendaContato.csproj",
       "packagesPath": "C:\\Users\\Bielango\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\obj\\",
+      "outputPath": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
