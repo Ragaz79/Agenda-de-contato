@@ -20,7 +20,7 @@ function App() {
             <h3>Agenda de Contatos</h3>
             <Link to='/'>Contatos</Link>
             <Link to='/favoritos'>Favoritos</Link>
-            <Link to='/tipocontato'>Favoritos</Link>
+            <Link to='/tipocontato'>Tipo Contato</Link>
         </nav>
         <div>
           <main>
