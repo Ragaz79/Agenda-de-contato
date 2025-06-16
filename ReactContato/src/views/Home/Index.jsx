@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function index() {
+function IndexContato() {
     return (
         <div>
             <h1>Contatos</h1>
@@ -37,8 +37,10 @@ function index() {
             </table>
 
             <div className="d-flex justify-content-center mt-4">
-                
+
             </div>
         </div>
     )
 }
+
+export default IndexContato
