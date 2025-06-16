@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function favorito() {
+function Favorito() {
     return (
         <div>
             <h1>Contatos</h1>
@@ -42,3 +42,4 @@ function favorito() {
         </div>
     )
 }
+export default Favorito
