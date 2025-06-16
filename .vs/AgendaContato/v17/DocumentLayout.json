@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\",
+  "WorkspaceRootPath": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\bielango\\desktop\\agenda-de-contato\\agendacontato\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\bielango\\desktop\\agenda-de-contato\\agendacontato\\data\\agendacontatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\data\\agendacontatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\bielango\\desktop\\agenda-de-contato\\agendacontato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\bielango\\desktop\\projetos aedb\\agenda-de-contato\\agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,44 +23,39 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AGENDACONTATOSContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "ToolTip": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "RelativeToolTip": "AgendaContato\\Data\\AGENDACONTATOSContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T02:58:44.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\Program.cs",
-              "RelativeDocumentMoniker": "AgendaContato\\Program.cs",
-              "ToolTip": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\Program.cs",
-              "RelativeToolTip": "AgendaContato\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T02:43:49.584Z",
-              "EditorCaption": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c8138cef-5f77-4532-ad37-c95da0761ad1",
+        "Display": 1,
+        "X": -31,
+        "Y": 99,
+        "Width": 2271,
+        "Height": 1325,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\appsettings.json",
-              "RelativeDocumentMoniker": "AgendaContato\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bielango\\Desktop\\Agenda-de-contato\\AgendaContato\\appsettings.json",
-              "RelativeToolTip": "AgendaContato\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-08T02:41:39.327Z",
+              "Title": "CriarContato.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "ToolTip": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "RelativeToolTip": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:48:05.135Z",
               "EditorCaption": ""
             }
           ]

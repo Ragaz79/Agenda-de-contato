@@ -4,10 +4,10 @@ import './App.css'
 
 function App() {
   
-  useEffect(() => {
-    var res = funcaoController().then(res =>console.log(res));
-  },
-  []);
+  // useEffect(() => {
+  //   var res = funcaoController().then(res =>console.log(res));
+  // },
+  // []);
 
   return (
     <div>
@@ -15,6 +15,7 @@ function App() {
       <h3>Agenda de Contatos</h3>
       <a href="Home">Contatos</a>
       <a href="TipoContato">Favoritos</a>
+    
       </nav>
       <div>
         <main>

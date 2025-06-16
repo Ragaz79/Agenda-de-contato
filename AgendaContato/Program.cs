@@ -9,7 +9,7 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AGENDACONTATOSContext>(options =>
     //Conexao com o banco de dados
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Toscano")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Gomes")));
 
 
 
