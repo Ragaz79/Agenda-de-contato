@@ -1,34 +1,41 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import IndexContato from './views/Home/Index';
+import Favorito from './views/Home/Favorito';
+// import Index from './views/TipoContato/Index';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css'
 
+
 function App() {
-  const [count, setCount] = useState(0)
+  
+  // useEffect(() => {
+  //   var res = funcaoController().then(res =>console.log(res));
+  // },
+  // []);
 
   return (
-    <>
+    <Router>
       <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+        <nav className='sidebar'>
+            <h3>Agenda de Contatos</h3>
+            <Link to='/'>Contatos</Link>
+            <Link to='/favoritos'>Favoritos</Link>
+            {/* <Link to='/tipocontato'>Tipo Contato</Link> */}
+        </nav>
+        <div>
+          <main>
+              <Routes>
+                <Route path="/" element={<IndexContato />} />
+                <Route path="/favoritos" element={<Favorito />} />
+                {/* <Route path="/tipocontato" element={<Index />} /> */}
+              </Routes>
+          </main>
+          <footer className="border-top footer text-muted mt-auto">
+            <div className="container"></div>
+          </footer>
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </Router>
   )
 }
 
