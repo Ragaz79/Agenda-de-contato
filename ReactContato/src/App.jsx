@@ -1,42 +1,37 @@
-import { useState } from 'react'
 import IndexContato from './views/Home/Index';
 import Favorito from './views/Home/Favorito';
-// import Index from './views/TipoContato/Index';
+import TipoContato from './views/TipoContato/Index';
+import CriarContato from './views/Home/CriarContato';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import './App.css'
-
+import './style.css';
 
 function App() {
-  
-  // useEffect(() => {
-  //   var res = funcaoController().then(res =>console.log(res));
-  // },
-  // []);
-
   return (
     <Router>
-      <div>
-        <nav className='sidebar'>
-            <h3>Agenda de Contatos</h3>
-            <Link to='/'>Contatos</Link>
-            <Link to='/favoritos'>Favoritos</Link>
-            {/* <Link to='/tipocontato'>Tipo Contato</Link> */}
+      <div className="app-container">
+        <nav className="sidebar">
+          <h3>Agenda de Contatos</h3>
+          <Link to="/">Contatos</Link>
+          <Link to="/favoritos">Favoritos</Link>
+          <Link to="/tipocontato">Tipos de Contato</Link>
         </nav>
-        <div>
+        <div className="content">
           <main>
-              <Routes>
-                <Route path="/" element={<IndexContato />} />
-                <Route path="/favoritos" element={<Favorito />} />
-                {/* <Route path="/tipocontato" element={<Index />} /> */}
-              </Routes>
+            <Routes>
+              <Route path="/" element={<IndexContato />} />
+              <Route path="/favoritos" element={<Favorito />} />
+              <Route path="/tipocontato" element={<TipoContato />} />
+              <Route path="/contatos/novo" element={<CriarContato />} />
+              <Route path="/contatos/editar/:id" element={<CriarContato />} />
+            </Routes>
           </main>
-          <footer className="border-top footer text-muted mt-auto">
-            <div className="container"></div>
+          <footer className="footer">
+            <div className="container">© 2025 Agenda de Contatos</div>
           </footer>
         </div>
       </div>
     </Router>
-  )
+  );
 }
 
-export default App
+export default App;

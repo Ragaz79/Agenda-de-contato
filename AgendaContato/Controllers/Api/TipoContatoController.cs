@@ -6,7 +6,7 @@ using AgendaContato.Models;
 namespace AgendaContato.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/TipoContato")]
 public class TipoContatoControllerApi : ControllerBase
 {
     private readonly AGENDACONTATOSContext _context;

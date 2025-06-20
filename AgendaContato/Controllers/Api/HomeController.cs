@@ -6,7 +6,7 @@ using AgendaContato.Data;
 namespace AgendaContato.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/Home")] // Alterado de "api/[controller]" para "api/Home"
 public class HomeControllerApi : ControllerBase
 {
     private readonly AGENDACONTATOSContext _context;
@@ -16,17 +16,16 @@ public class HomeControllerApi : ControllerBase
         _context = context;
     }
 
-    // GET: api/contatos?page=1&pageSize=3
     [HttpGet("ListarContatos")]
     public async Task<IActionResult> GetContatos([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
     {
+        Console.WriteLine("Endpoint ListarContatos chamado!"); // Log para depuração
         var contatos = await _context.CONTATOS
             .Include(c => c.TIPOCONTATO)
             .OrderBy(c => c.CONTATO_COD)
             .Skip((page - 1) * pageSize)
             .Take(pageSize)
             .ToListAsync();
-
         return Ok(contatos);
     }
 

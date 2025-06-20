@@ -1,54 +1,90 @@
-import { useState } from 'react'
-import CriarContato from './CriarContato'
+import { useState, useEffect } from 'react';
+import contatoService from '../../services/ServiceHome';
 import { Link } from 'react-router-dom';
 
-
-
 function IndexContato() {
+  const [contatos, setContatos] = useState([]);
 
-    // <Route path="/criar-contato" element={<CriarContato />} />
-    
-    return (
-        <div>
+  useEffect(() => {
+    fetchContatos();
+  }, []);
 
-            <h1>Contatos</h1>
-            <Link to='CriarContato' className='btn btn-primary'>Criar Contato</Link>
-            <br />
+  const fetchContatos = () => {
+    contatoService
+      .listarContatos()
+      .then((res) => {
+        // console.log(res.data);
+        setContatos(res.data);
+      })
+      .catch((err) => console.error('Erro ao listar contatos:', err));
+  };
 
-            <table className='table table-bordered table-striped mt-3'>
-                <thead className='thead-dark'>
-                    <tr>
-                        <th>Nome</th>
-                        <th>Telefone</th>
-                        <th>Categoria</th>
-                        <th>Ação</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {/* foreach(){ */}
-                        <tr>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td>
-                                <button>
-                                    <i className='fa-solid fa-star'></i>
-                                </button>
-                            </td>
-                            <td>
-                                <a href=""></a>
-                                <a href=""></a>
-                            </td>
-                        </tr>
-                    {/* } */}
-                </tbody>
-            </table>
+  const handleDelete = (id) => {
+    if (window.confirm('Deseja excluir este contato?')) {
+      contatoService
+        .deletarContato(id)
+        .then(() => fetchContatos())
+        .catch((err) => console.error('Erro ao excluir contato:', err));
+    }
+  };
 
-            <div className="d-flex justify-content-center mt-4">
+  const handleToggleFavorito = (id) => {
+    contatoService
+      .alternarFavorito(id)
+      .then(() => fetchContatos())
+      .catch((err) => console.error('Erro ao alternar favorito:', err));
+  };
 
-            </div>
-        </div>
-    )
+  return (
+    <div className="container">
+      <h1>Contatos</h1>
+      <Link to="/contatos/novo" className="btn btn-success">
+        + Novo Contato
+      </Link>
+      <table className="table">
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Categoria</th>
+            <th>Favorito</th>
+            <th>Ações</th>
+          </tr>
+        </thead>
+        <tbody>
+          {contatos.map((contato) => (
+            <tr key={contato.contatO_COD}>
+              <td>{contato.contatO_NOME}</td>
+              <td>{contato.contatO_NUMERO}</td>
+              <td>{contato.tipocontato?.tipO_NOME || 'Sem tipo'}</td>
+              <td>
+                <button
+                  className="btn btn-icon"
+                  onClick={() => handleToggleFavorito(contato.contatO_COD)}
+                >
+                  {contato.contatO_FAVORITO ? '★' : '☆'}
+                </button>
+              </td>
+              <td>
+                <Link
+                  to={`/contatos/editar/${contato.contatO_COD}`}
+                  className="btn btn-primary"
+                >
+                  Editar
+                </Link>
+                <button
+                  className="btn btn-danger"
+                  onClick={() => handleDelete(contato.contatO_COD)}
+                >
+                  Excluir
+                </button>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
 }
 
-export default IndexContato
+export default IndexContato;

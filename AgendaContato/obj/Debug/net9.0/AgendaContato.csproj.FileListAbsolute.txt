@@ -1633,3 +1633,701 @@ C:\Users\Bielango\Desktop\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\Agend
 C:\Users\Bielango\Desktop\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.genruntimeconfig.cache
 C:\Users\Bielango\Desktop\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\ref\AgendaContato.dll
 C:\Users\Bielango\Desktop\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\appsettings.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.staticwebassets.runtime.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.staticwebassets.endpoints.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.exe
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.deps.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.runtimeconfig.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.pdb
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.csproj.AssemblyReference.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.AssemblyInfoInputs.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.AssemblyInfo.cs
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.csproj.CoreCompileInputs.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.RazorAssemblyInfo.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.RazorAssemblyInfo.cs
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.sourcelink.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\scopedcss\bundle\AgendaContato.styles.css
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\scopedcss\projectbundle\AgendaContato.bundle.scp.css
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\4hrl4pd85p-lugek5hnai.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\utwvq15zwx-61n19gt1b8.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\caj9q0psf1-fr7q2aak1r.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\527nh8dsuh-bqjiyaj88i.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\lx4e41tsz3-c2jlpeoesf.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\cahds5unm8-erw9l3u2r3.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2jy0lnhyzh-aexeepp0ev.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\5c2zmy1c4f-d7shbmvgxk.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\593hzxfu1q-ausgxo2sd3.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\dbsicc61hp-k8d9w2qqmf.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\k28ygc24le-cosvhxvwiu.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2z5smme5ix-ub07r2b239.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\7fr6cz0irf-fvhpjtyr6v.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\xffukdn2z7-b7pk76d08c.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\auifhj042p-fsbi9cje9m.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\ythlkiy4nw-rzd6atqjts.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\1lvkx069z0-ee0r1s7dh0.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\q1o6hs026f-dxx9fxp4il.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\rzmr6f8xtm-jd9uben2k1.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\rob48ojlbt-khv3u5hwcm.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\k5bromgeyr-r4e9w2rdcm.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\0ggoj0dwgo-lcd1t2u6c8.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\szxjkxr351-c2oey78nd0.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\qyc1poya4q-tdbxkamptv.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\q0d2dfz17t-j5mq2jizvt.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\liabhfmehb-06098lyss8.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2bkwf298qr-nvvlpmu67g.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\z69zqxtxgm-s35ty4nyc5.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\umdxezfkyq-pj5nd1wqec.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\0pp8zxq9zn-46ein0sx1k.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\ys7z5n5dr3-v0zj4ognzu.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\5w6ad1fbrp-37tfw0ft22.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\513hy59v9l-hrwsygsryq.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\h7a0h2um14-pk9g2wxc8p.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\b0db0jjrms-ft3s53vfgj.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yggqsfafhd-6cfz1n2cew.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yvnc2jowbo-6pdc2jztkx.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\e2a7kauw2j-493y06b0oq.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\bpftuch6fz-iovd86k7lj.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\rnv3g89iwx-vr1egmr9el.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\b5q4nm6gho-kbrnm935zg.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\erpgnak1w3-jj8uyg4cgr.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\p2palj5y3h-y7v9cxd14o.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\tyy3kp77r7-notf2xhcfb.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\bu12zr7qba-h1s4sie4z3.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\aglz4xqd7z-63fj8s7r0e.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\3f7ghqifw5-0j3bgjxly4.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\4xo76hsewq-47otxtyo56.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2w3gt4714a-4v8eqarkd7.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\r90gne1dmn-l3n5xuwxn8.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\8cg39rcova-ilo7uva0vt.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\njishshdxn-qlccset4i1.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\wbublz0w2v-lzl9nlhx6b.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yhb7bk7gev-ag7o75518u.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\v1u07den6o-xzw0cte36n.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\zn69qvkrp1-0i3buxo5is.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\90m3cgeuof-o1o13a6vjx.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\51dkfdhpwb-ttgo8qnofa.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\h2zh4z4i80-2z0ns9nrw6.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\p1tajhtw7e-muycvpuwrr.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yjkth8fkjh-87fc7y1x7t.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\f9qhgbjjmk-jfsiqqwiad.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\kebukogcka-pp1dgngj0y.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\ijtlej275x-pp1dgngj0y.gz
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaCo.A7B0A7E0.Up2Date
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\refint\AgendaContato.dll
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.pdb
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.genruntimeconfig.cache
+C:\Users\Raposa\Desktop\Original\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\ref\AgendaContato.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\appsettings.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.staticwebassets.runtime.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.staticwebassets.endpoints.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.exe
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.deps.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.runtimeconfig.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\AgendaContato.pdb
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.csproj.AssemblyReference.cache
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.AssemblyInfoInputs.cache
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.AssemblyInfo.cs
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.csproj.CoreCompileInputs.cache
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.RazorAssemblyInfo.cache
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.RazorAssemblyInfo.cs
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\scopedcss\bundle\AgendaContato.styles.css
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\scopedcss\projectbundle\AgendaContato.bundle.scp.css
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\4hrl4pd85p-lugek5hnai.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\utwvq15zwx-61n19gt1b8.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\caj9q0psf1-fr7q2aak1r.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\527nh8dsuh-bqjiyaj88i.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\lx4e41tsz3-c2jlpeoesf.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\cahds5unm8-erw9l3u2r3.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2jy0lnhyzh-aexeepp0ev.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\5c2zmy1c4f-d7shbmvgxk.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\593hzxfu1q-ausgxo2sd3.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\dbsicc61hp-k8d9w2qqmf.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\k28ygc24le-cosvhxvwiu.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2z5smme5ix-ub07r2b239.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\7fr6cz0irf-fvhpjtyr6v.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\xffukdn2z7-b7pk76d08c.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\auifhj042p-fsbi9cje9m.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\ythlkiy4nw-rzd6atqjts.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\1lvkx069z0-ee0r1s7dh0.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\q1o6hs026f-dxx9fxp4il.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\rzmr6f8xtm-jd9uben2k1.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\rob48ojlbt-khv3u5hwcm.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\k5bromgeyr-r4e9w2rdcm.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\0ggoj0dwgo-lcd1t2u6c8.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\szxjkxr351-c2oey78nd0.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\qyc1poya4q-tdbxkamptv.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\q0d2dfz17t-j5mq2jizvt.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\liabhfmehb-06098lyss8.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2bkwf298qr-nvvlpmu67g.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\z69zqxtxgm-s35ty4nyc5.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\umdxezfkyq-pj5nd1wqec.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\0pp8zxq9zn-46ein0sx1k.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\ys7z5n5dr3-v0zj4ognzu.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\5w6ad1fbrp-37tfw0ft22.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\513hy59v9l-hrwsygsryq.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\h7a0h2um14-pk9g2wxc8p.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\b0db0jjrms-ft3s53vfgj.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yggqsfafhd-6cfz1n2cew.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yvnc2jowbo-6pdc2jztkx.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\e2a7kauw2j-493y06b0oq.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\bpftuch6fz-iovd86k7lj.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\rnv3g89iwx-vr1egmr9el.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\b5q4nm6gho-kbrnm935zg.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\erpgnak1w3-jj8uyg4cgr.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\p2palj5y3h-y7v9cxd14o.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\tyy3kp77r7-notf2xhcfb.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\bu12zr7qba-h1s4sie4z3.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\aglz4xqd7z-63fj8s7r0e.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\3f7ghqifw5-0j3bgjxly4.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\4xo76hsewq-47otxtyo56.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\2w3gt4714a-4v8eqarkd7.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\r90gne1dmn-l3n5xuwxn8.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\8cg39rcova-ilo7uva0vt.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\njishshdxn-qlccset4i1.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\wbublz0w2v-lzl9nlhx6b.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yhb7bk7gev-ag7o75518u.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\v1u07den6o-xzw0cte36n.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\zn69qvkrp1-0i3buxo5is.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\90m3cgeuof-o1o13a6vjx.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\51dkfdhpwb-ttgo8qnofa.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\h2zh4z4i80-2z0ns9nrw6.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\p1tajhtw7e-muycvpuwrr.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\yjkth8fkjh-87fc7y1x7t.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\f9qhgbjjmk-jfsiqqwiad.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\kebukogcka-pp1dgngj0y.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\compressed\ijtlej275x-pp1dgngj0y.gz
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.AgendaContato.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.AgendaContato.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.build.AgendaContato.props
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AgendaContato.props
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AgendaContato.props
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaCo.A7B0A7E0.Up2Date
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\refint\AgendaContato.dll
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.pdb
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\AgendaContato.genruntimeconfig.cache
+C:\Users\Bielango\Desktop\Agenda-de-contato-master\AgendaContato\obj\Debug\net9.0\ref\AgendaContato.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\appsettings.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.staticwebassets.endpoints.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.staticwebassets.runtime.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.exe
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.deps.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.runtimeconfig.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\AgendaContato.pdb
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\X.PagedList.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.csproj.AssemblyReference.cache
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.AssemblyInfoInputs.cache
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.AssemblyInfo.cs
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.csproj.CoreCompileInputs.cache
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.RazorAssemblyInfo.cache
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.RazorAssemblyInfo.cs
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.sourcelink.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\scopedcss\bundle\AgendaContato.styles.css
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\scopedcss\projectbundle\AgendaContato.bundle.scp.css
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\4hrl4pd85p-lugek5hnai.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\utwvq15zwx-61n19gt1b8.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\caj9q0psf1-fr7q2aak1r.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\527nh8dsuh-bqjiyaj88i.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\lx4e41tsz3-c2jlpeoesf.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\cahds5unm8-erw9l3u2r3.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\2jy0lnhyzh-aexeepp0ev.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\5c2zmy1c4f-d7shbmvgxk.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\593hzxfu1q-ausgxo2sd3.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\dbsicc61hp-k8d9w2qqmf.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\k28ygc24le-cosvhxvwiu.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\2z5smme5ix-ub07r2b239.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\7fr6cz0irf-fvhpjtyr6v.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\xffukdn2z7-b7pk76d08c.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\auifhj042p-fsbi9cje9m.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\ythlkiy4nw-rzd6atqjts.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\1lvkx069z0-ee0r1s7dh0.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\q1o6hs026f-dxx9fxp4il.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\rzmr6f8xtm-jd9uben2k1.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\rob48ojlbt-khv3u5hwcm.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\k5bromgeyr-r4e9w2rdcm.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\0ggoj0dwgo-lcd1t2u6c8.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\szxjkxr351-c2oey78nd0.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\qyc1poya4q-tdbxkamptv.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\q0d2dfz17t-j5mq2jizvt.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\liabhfmehb-06098lyss8.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\2bkwf298qr-nvvlpmu67g.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\z69zqxtxgm-s35ty4nyc5.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\umdxezfkyq-pj5nd1wqec.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\0pp8zxq9zn-46ein0sx1k.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\ys7z5n5dr3-v0zj4ognzu.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\5w6ad1fbrp-37tfw0ft22.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\513hy59v9l-hrwsygsryq.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\h7a0h2um14-pk9g2wxc8p.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\b0db0jjrms-ft3s53vfgj.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\yggqsfafhd-6cfz1n2cew.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\yvnc2jowbo-6pdc2jztkx.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\e2a7kauw2j-493y06b0oq.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\bpftuch6fz-iovd86k7lj.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\rnv3g89iwx-vr1egmr9el.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\b5q4nm6gho-kbrnm935zg.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\erpgnak1w3-jj8uyg4cgr.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\p2palj5y3h-y7v9cxd14o.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\tyy3kp77r7-notf2xhcfb.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\bu12zr7qba-h1s4sie4z3.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\aglz4xqd7z-63fj8s7r0e.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\3f7ghqifw5-0j3bgjxly4.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\4xo76hsewq-47otxtyo56.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\2w3gt4714a-4v8eqarkd7.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\r90gne1dmn-l3n5xuwxn8.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\8cg39rcova-ilo7uva0vt.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\njishshdxn-qlccset4i1.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\wbublz0w2v-lzl9nlhx6b.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\yhb7bk7gev-ag7o75518u.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\v1u07den6o-xzw0cte36n.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\zn69qvkrp1-0i3buxo5is.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\90m3cgeuof-o1o13a6vjx.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\51dkfdhpwb-ttgo8qnofa.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\h2zh4z4i80-2z0ns9nrw6.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\p1tajhtw7e-muycvpuwrr.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\yjkth8fkjh-87fc7y1x7t.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\f9qhgbjjmk-jfsiqqwiad.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\kebukogcka-pp1dgngj0y.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\compressed\ijtlej275x-pp1dgngj0y.gz
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.AgendaContato.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.AgendaContato.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.build.AgendaContato.props
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AgendaContato.props
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AgendaContato.props
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaCo.A7B0A7E0.Up2Date
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\refint\AgendaContato.dll
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.pdb
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\AgendaContato.genruntimeconfig.cache
+C:\Users\Bielango\Desktop\Projetos AEDB\Agenda-de-contato\AgendaContato\obj\Debug\net9.0\ref\AgendaContato.dll

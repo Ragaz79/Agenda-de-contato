@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace AgendaContato.Models
 {
@@ -26,9 +27,11 @@ namespace AgendaContato.Models
         [Column("CONTATO_FAVORITO")]
         public bool? CONTATO_FAVORITO { get; set; } = false;
 
+        [ValidateNever]
         [ForeignKey("TIPO_COD")]
         public TIPOCONTATO TIPOCONTATO { get; set; }
 
+        [ValidateNever]
         public ICollection<CONTATOGRUPO> CONTATOGRUPOS { get; set; }
     }
 }

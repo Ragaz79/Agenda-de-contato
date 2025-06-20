@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|c:\\users\\bielango\\desktop\\projetos aedb\\agenda-de-contato\\agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44CD00D6-9359-4BF5-869D-05F7284A918E}|AgendaContato\\AgendaContato.csproj|solutionrelative:agendacontato\\views\\home\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -23,40 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c8138cef-5f77-4532-ad37-c95da0761ad1",
-        "Display": 1,
-        "X": -31,
-        "Y": 99,
-        "Width": 2271,
-        "Height": 1325,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CriarContato.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "RelativeDocumentMoniker": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "ToolTip": "C:\\Users\\Bielango\\Desktop\\Projetos AEDB\\Agenda-de-contato\\AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "RelativeToolTip": "AgendaContato\\Views\\Home\\CriarContato.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T02:48:05.135Z",
-              "EditorCaption": ""
             }
           ]
         }
