@@ -52,6 +52,7 @@ function TipoContato() {
   return (
     <div className="container">
       <h1>Tipos de Contato</h1>
+      <br/>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label>Nome do Tipo</label>
@@ -65,7 +66,7 @@ function TipoContato() {
           />
         </div>
         <button type="submit" className="btn btn-success">
-          Adicionar
+          + Adicionar
         </button>
       </form>
       <table className="table">

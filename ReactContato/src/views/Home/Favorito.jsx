@@ -55,6 +55,7 @@ function Favorito() {
                 <button
                   className="btn btn-icon"
                   onClick={() => handleToggleFavorito(contato.contatO_COD)}
+                  style={{ color: contato.contatO_FAVORITO ? 'blue' : 'gray' }}
                 >
                   ★
                 </button>
@@ -62,12 +63,13 @@ function Favorito() {
               <td>
                 <Link
                   to={`/contatos/editar/${contato.contatO_COD}`}
-                  className="btn btn-primary"
+                  className="btn btn-primary btn-sm w-100"
+                  style={{ textDecoration: 'none', color: 'white' }}
                 >
                   Editar
                 </Link>
                 <button
-                  className="btn btn-danger"
+                  className="btn btn-danger btn-sm w-100"
                   onClick={() => handleDelete(contato.contatO_COD)}
                 >
                   Excluir

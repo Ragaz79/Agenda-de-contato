@@ -14,7 +14,7 @@ builder.Services.AddControllersWithViews()
     });
 
 builder.Services.AddDbContext<AGENDACONTATOSContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("Toscano")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Ragazzi")));
 
 // Add CORS policy
 builder.Services.AddCors(options =>
